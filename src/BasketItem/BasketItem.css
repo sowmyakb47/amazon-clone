@@ -1,0 +1,35 @@
+.basketitem {
+  display: flex;
+    margin: 20px 0;
+}
+.basketitem_image {
+  max-height: 150px;
+  max-width: 150px;
+  object-fit: contain;
+  margin-bottom: 15px;
+  align-items: center;
+}
+.basketitem_info {
+  height: max-content;
+  width: 20%;
+  padding-left: 20px;
+  align-items: left;
+}
+.basketitem_price {
+  margin-top: 5px;
+  align-items: left;
+}
+.basketitem_button {
+  background-color: #f0c14b;
+  border: 1px solid;
+  margin-top: 15px;
+  border-color: yellow yellow yellow;
+  color: #111;
+  align-items: center;
+  cursor: pointer;
+}
+.basketitem_title{
+    font-size: 17px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}

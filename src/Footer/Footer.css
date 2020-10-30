@@ -1,0 +1,39 @@
+.footer {
+  position: relative;
+  background-color: #232f3e;
+  color: white;
+  bottom: 0;
+  display: block;
+  min-width:60px;
+}
+.backtotTop {
+  background-color: #37475a;
+  color: white;
+  text-align: center;
+  height: 30px;
+  font-size: 15px;
+  padding: 5px;
+  font-weight: 500;
+  text-decoration-style: none;
+  cursor: pointer;
+}
+li {
+  color: #ddd;
+  list-style-type: none;
+  font-size: 14px;
+  cursor: pointer;
+  line-height: 25px;
+}
+.row {
+  padding: 30px 60px;
+}
+.row div {
+  padding-left: 40px;
+  font-weight: 600;
+}
+.footer_row {
+  display: flex;
+  align-content: space-between;
+  padding: 0px 80px;
+  min-width: 60px;
+}

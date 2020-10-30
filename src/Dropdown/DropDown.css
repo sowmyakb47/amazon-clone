@@ -1,0 +1,16 @@
+.dropdown_select {
+  padding: 8px 0px;
+  background-color: lightgray;
+  cursor: pointer;
+  border-radius: 4px 0 0 4px;
+  margin-left: 20px;
+ 
+}
+select{
+  width: fit-content;
+}
+option {
+  font-size: 15px;
+  padding: 15px;
+  background-color: white;
+}
